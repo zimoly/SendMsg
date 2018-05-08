@@ -12,7 +12,6 @@
         <input id="mobile" name="mobile" />
         <input id="comment" name="comment" />
         <input id="Button1" type="submit" value="button" />
-        fg
     </div>
     </form>
 </body>

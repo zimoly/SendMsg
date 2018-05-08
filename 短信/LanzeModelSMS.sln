@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanzeModelSMS", "LanzeModelSMS\LanzeModelSMS.csproj", "{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSendMessage", "TestSendMessage\TestSendMessage.csproj", "{023FA240-D31E-4094-815C-51F59331E812}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.2.209:8080/tfs/jinriair
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestSendMessage\\TestSendMessage.csproj
+		SccProjectName1 = TestSendMessage
+		SccLocalPath1 = TestSendMessage
+		SccProjectUniqueName2 = LanzeModelSMS\\LanzeModelSMS.csproj
+		SccProjectName2 = LanzeModelSMS
+		SccLocalPath2 = LanzeModelSMS
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F9A4E588-F6CD-4C6F-9CA6-E4177F6A0A1F}.Release|x86.ActiveCfg = Release|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{023FA240-D31E-4094-815C-51F59331E812}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
